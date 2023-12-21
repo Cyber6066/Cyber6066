@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyber6066
-- 👀 I’m interested in Linux
+- 👀 I’m interested in Linux and Flipper Zero
 - 🌱 I’m currently learning Volatility
 
 <!---
